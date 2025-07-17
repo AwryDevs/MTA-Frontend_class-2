@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+ *{
+    font-family: "Lora", serif;
+    font-weight: bolder;
+    font-display: center;
+}
+
+body{
+    background-color: orange;
+}
+
+.container{
+    text-align: left;
+    margin-top: 1.5rem;
+    text-decoration-color: grey;
+    width: 150px;
+}
+button.Enter{
+    background-color: blue;
+    color: orange;
+    margin-top: 1.5rem;
+}
+
+div.SignUp.container{
+    text-decoration-color: blue;
+}
+input{
+    color: transparent;
+}
