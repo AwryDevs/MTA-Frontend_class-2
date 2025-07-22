@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+
+}
+
+input{
+    color: blue;
+    border: none;
+    border-bottom: 3px solid;
+}
+button{
+    background-color: blue;
+    color: white;
+    height: 40px;
+    width: 80px;
+    border-radius: 20px;
+    border: none;
+}
+div.boss{
+    text-align: center;
+}

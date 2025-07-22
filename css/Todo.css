@@ -1,0 +1,44 @@
+body{
+    background-color: azure;
+}
+
+button{
+    background-color: lawngreen;
+    color: white;
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+}
+
+input{
+    border: none;
+    border-bottom: 2px solid;
+    color: lawngreen;
+    
+}
+div.todo{
+    text-align: center;
+}
+ul{
+    background-color: white;
+    color: lawngreen;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 2rem;
+    padding: 1rem;
+    align-content: center;
+}
+ul li{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+
+}
+#tracklist button{
+    background-color: red;
+    color: white;
+}
